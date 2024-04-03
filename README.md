@@ -5,9 +5,9 @@
 </p>
 
 ## About me
--🤔 Exploring new technologies and developing software solutions.
--🎓 Studying IT.
--💼 Working as a design at ElyGDesign.
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying IT.
+- 💼 Working as a design at ElyGDesign.
 
 
 ## Skills of Mine
