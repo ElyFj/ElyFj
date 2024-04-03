@@ -48,7 +48,7 @@
 
 <br/>
 
-<p align="right">
+<p align="center">
   <img src="https://github.com/ElyFj/ElyFj/blob/main/giphy.gif" alt="Descripción de la imagen">
 </p>
 
