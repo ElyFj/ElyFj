@@ -54,6 +54,6 @@
 
 ## Where to find me
 
-[![Linkedin](www.linkedin.com/in/𝔼𝕝𝕚𝕫𝕒𝕓𝕖𝕥-𝕊𝕒𝕟𝕥𝕒𝕟𝕒-452936252)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](mailto:ely_mariano_as@hotmail.com)](mailto:SEU-EMAIL)
-[![GitHub]()](LINK-DO-SEU-GITHUB)
+[![Linkedin]()](www.linkedin.com/in/𝔼𝕝𝕚𝕫𝕒𝕓𝕖𝕥-𝕊𝕒𝕟𝕥𝕒𝕟𝕒-452936252)
+[![Gmail Badge]()](mailto:ely_mariano_as@hotmail.com)
+[![GitHub]()](https://github.com/ElyFj)
