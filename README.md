@@ -55,5 +55,5 @@
 ## Where to find me
 
 [![Linkedin](https://img.icons8.com/nolan/64/linkedin.png)](www.linkedin.com/in/𝔼𝕝𝕚𝕫𝕒𝕓𝕖𝕥-𝕊𝕒𝕟𝕥𝕒𝕟𝕒-452936252)
-[![Mail](mailto:shubhamdeepjha@gmail.com)](mailto:ely_mariano_as@hotmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/ElyFj)
+[![Mail](https://img.icons8.com/3d-fluency/94/mail.png)](mailto:ely_mariano_as@hotmail.com)
+[![GitHub](https://img.icons8.com/nolan/64/github.png)](https://github.com/ElyFj)
