@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-![Imagen1](https://fontmeme.com/temporary/13dcd11b68b065bd1a221443b358e234.png)
+<p align="center">
+  <img src="https://fontmeme.com/temporary/13dcd11b68b065bd1a221443b358e234.png" alt="Descripción de la imagen">
+</p>
 
 ## Sobre mim
 
