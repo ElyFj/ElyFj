@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://fontmeme.com/temporary/13dcd11b68b065bd1a221443b358e234.png" alt="Descripción de la imagen">
+  <img src="https://github.com/ElyFj/ElyFj/blob/main/stranger.png" alt="My code is my canvas">
 </p>
 
 ## About me
